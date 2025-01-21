@@ -7,8 +7,14 @@ sites:
     url: https://www.gatewayfy.com
   - name: GatewayFy App
     url: https://app.gatewayfy.com
-  - name: Quik
+  - name: Quik App
     url: https://app.quikbr.com
+  - name: Quik Checkout
+    url: https://checkout.quikbr.com
+  - name: Neon App
+    url: https://app.neonpay.com.br
+  - name: Neon Checkout
+    url: https://checkout.neonpay.com.br
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

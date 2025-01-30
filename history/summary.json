@@ -22,18 +22,20 @@
     "url": "https://app.gatewayfy.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.gatewayfy.com.ico",
     "slug": "gateway-fy-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1175,
-    "timeDay": 227,
-    "timeWeek": 246,
-    "timeMonth": 1175,
-    "timeYear": 1175,
-    "dailyMinutesDown": {}
+    "time": 1131,
+    "timeDay": 197,
+    "timeWeek": 237,
+    "timeMonth": 1131,
+    "timeYear": 1131,
+    "dailyMinutesDown": {
+      "2025-01-30": 0
+    }
   },
   {
     "name": "Quik App",

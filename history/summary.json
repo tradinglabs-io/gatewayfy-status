@@ -96,19 +96,19 @@
     "url": "https://checkout.neonpay.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/checkout.neonpay.com.br.ico",
     "slug": "neon-checkout",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 555,
-    "timeDay": 274,
-    "timeWeek": 272,
-    "timeMonth": 555,
-    "timeYear": 555,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 545,
+    "timeDay": 303,
+    "timeWeek": 282,
+    "timeMonth": 545,
+    "timeYear": 545,
     "dailyMinutesDown": {
-      "2025-02-04": 0
+      "2025-02-04": 6
     }
   }
 ]

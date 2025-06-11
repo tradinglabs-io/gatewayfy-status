@@ -1,7 +1,7 @@
 url: https://app.neonpay.com.br
-status: down
-code: 403
-responseTime: 232
-lastUpdated: 2025-06-10T23:00:53.326Z
+status: up
+code: 200
+responseTime: 589
+lastUpdated: 2025-06-11T13:07:16.351Z
 startTime: 2025-01-21T12:21:10.623Z
 generator: Upptime <https://github.com/upptime/upptime>
